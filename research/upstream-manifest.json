@@ -1,0 +1,76 @@
+{
+  "inspected_on": "2026-10-23",
+  "scope": "Seven repositories in the chat shortlist; source inspection only. Submodules not initialized.",
+  "repositories": [
+    {
+      "name": "strix",
+      "path": "research/upstream/strix",
+      "origin": "https://github.com/usestrix/strix.git",
+      "commit": "14cc948c36e90517a774cf32bdfe5d8cd3605b62",
+      "branch": "main",
+      "commit_date": "2026-10-23T10:48:00-04:00",
+      "shallow": true,
+      "clean": true
+    },
+    {
+      "name": "shannon",
+      "path": "research/upstream/shannon",
+      "origin": "https://github.com/KeygraphHQ/shannon.git",
+      "commit": "4bd88c12a9096d0b78ceb2828729d12dca70fa60",
+      "branch": "main",
+      "commit_date": "2026-10-16T02:35:19+05:30",
+      "shallow": true,
+      "clean": true
+    },
+    {
+      "name": "trailofbits-skills",
+      "path": "research/upstream/trailofbits-skills",
+      "origin": "https://github.com/trailofbits/skills.git",
+      "commit": "196a9073ab10d35bacf111f945e02c00b2c6883a",
+      "branch": "main",
+      "commit_date": "2026-10-23T11:26:17+02:00",
+      "shallow": true,
+      "clean": true
+    },
+    {
+      "name": "claude-code-security-review",
+      "path": "research/upstream/claude-code-security-review",
+      "origin": "https://github.com/anthropics/claude-code-security-review.git",
+      "commit": "0c6a49f1fa56a1d472575da86a94dbc1edb78eda",
+      "branch": "main",
+      "commit_date": "2026-02-11T13:01:23-05:00",
+      "shallow": true,
+      "clean": true
+    },
+    {
+      "name": "vulnhuntr",
+      "path": "research/upstream/vulnhuntr",
+      "origin": "https://github.com/protectai/vulnhuntr.git",
+      "commit": "ead88c5adba4279dae5c56d65124c530a9a1c5ae",
+      "branch": "main",
+      "commit_date": "2025-02-06T11:04:14-07:00",
+      "shallow": true,
+      "clean": true
+    },
+    {
+      "name": "ai-agent-audit",
+      "path": "research/upstream/ai-agent-audit",
+      "origin": "https://github.com/bartek-filipiuk/ai-agent-audit.git",
+      "commit": "79c8536118facf7de9991dc0c13a4c317f0aa692",
+      "branch": "main",
+      "commit_date": "2026-10-12T23:39:13+02:00",
+      "shallow": true,
+      "clean": true
+    },
+    {
+      "name": "wazuh",
+      "path": "research/upstream/wazuh",
+      "origin": "https://github.com/wazuh/wazuh.git",
+      "commit": "dcb722fae3e85719eaaa006a45751c77819469e5",
+      "branch": "main",
+      "commit_date": "2026-10-22T13:31:22+02:00",
+      "shallow": true,
+      "clean": true
+    }
+  ]
+}

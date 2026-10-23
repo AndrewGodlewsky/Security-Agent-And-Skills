@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "DEMO-001",
+  "title": "Synthetic demonstration only — not a real advisory",
+  "source_status": "verified",
+  "provider": "manual",
+  "sources": [
+    {
+      "url": "https://vendor.example/DEMO-001",
+      "retrieved_at": "2026-10-23T00:00:00+00:00"
+    }
+  ],
+  "targets": [
+    {
+      "ecosystem": "npm",
+      "name": "demo-widget",
+      "version_scheme": "semver",
+      "affected_ranges": [
+        {
+          "introduced": "1.0.0",
+          "fixed": "1.2.3"
+        }
+      ],
+      "fixed_versions": [
+        "1.2.3"
+      ],
+      "prerequisites": [
+        "Untrusted input reaches parse()"
+      ],
+      "remediation_steps": []
+    }
+  ]
+}
